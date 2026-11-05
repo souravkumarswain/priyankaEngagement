@@ -32,7 +32,7 @@ const eventDetails = {
   address: "Budha ghata, Oleipada",
   city: "Jajpur Town, Odisha 755007",
   timeRing: "11:00 AM — Ring Ceremony",
-  timeDinner: "12:30 PM — Prasad Sevan",
+  timeDinner: "12:30 PM — Lunch",
   // dress: "Royal Bandhani • Jodhpuri • Leheriya",
 };
 
