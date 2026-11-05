@@ -18,8 +18,8 @@ const couple = {
   groom: "Ansuman",
   brideFamily: "Lt.Tanmaya Jena & Swarnaprava Jena",
   groomFamily: "Shri Ajay Kumar Pati  & Smt. Anima Pati",
-  bridePlace: "Rourkela",
-  groomPlace: "Cuttack",
+  bridePlace: "Jajpur",
+  groomPlace: "Jajpur",
 };
 
 const eventDetails = {
@@ -885,7 +885,7 @@ export default function App() {
                   </div>
                   <div className="mt-[5px] text-[12.7px] text-[#a56631] tracking-wide uppercase"
                     style={{ fontFamily: '"Cormorant Garamond",serif' }}>
-                    Cuttack &bull; Rourkela
+                  "Jajpur &bull; Jajpur
                   </div>
                 </div>
 
@@ -896,7 +896,7 @@ export default function App() {
                     style={{ background: '#fff6df', border: '1.5px solid #e2b66c', boxShadow: '0 4px 14px rgba(157,94,32,.10)', fontFamily: '"Cormorant Garamond",serif' }}>
                     &#9993; View Again
                   </button>
-                  <a href={`https://wa.me/?text=${encodeURIComponent(`You're invited to a Royal Engagement!💍 of \nPriyanka & Ansuman \n on ${eventDetails.month} ${eventDetails.year}\n at ${eventDetails.venue}, Rourkela\nPlease grace us with your presence! https://fascinating-biscotti-c5ea27.netlify.app/ 💐✨`)}`}
+                  <a href={`https://wa.me/?text=${encodeURIComponent(`You're invited to a Royal Engagement!💍 of \nPriyanka & Ansuman \n on ${eventDetails.month} ${eventDetails.year}\n at ${eventDetails.venue}, Jajpur\nPlease grace us with your presence! https://priyanka-engagement.vercel.app/ 💐✨`)}`}
                     target="_blank" rel="noreferrer"
                     className="px-5 py-[12px] rounded-full text-[13.8px] tracking-wide text-white text-center"
                     style={{
