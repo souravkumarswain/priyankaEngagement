@@ -19,7 +19,7 @@ const couple = {
   brideFamily: "Lt.Tanmaya Jena & Swarnaprava Jena",
   groomFamily: "Shri Ajay Kumar Pati  & Smt. Anima Pati",
   bridePlace: "Jajpur",
-  groomPlace: "Jajpur",
+  groomPlace: "",
 };
 
 const eventDetails = {
@@ -885,7 +885,7 @@ export default function App() {
                   </div>
                   <div className="mt-[5px] text-[12.7px] text-[#a56631] tracking-wide uppercase"
                     style={{ fontFamily: '"Cormorant Garamond",serif' }}>
-                  "Jajpur &bull; Jajpur
+                  Jajpur
                   </div>
                 </div>
 
