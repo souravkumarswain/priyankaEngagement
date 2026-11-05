@@ -15,7 +15,7 @@ const shubhQuotes = [
 
 const couple = {
   bride: "Priyanka",
-  groom: "Anshuman",
+  groom: "Ansuman",
   brideFamily: "Lt.Tanmaya Jena & Swarnaprava Jena",
   groomFamily: "Shri Ajay Kumar Pati  & Smt. Anima Pati",
   bridePlace: "Rourkela",
@@ -674,7 +674,7 @@ export default function App() {
 
             <div className="mt-[28px] text-[11px] tracking-[0.18em] text-[#f1c480]/90 uppercase"
               style={{ fontFamily: '"Cormorant Garamond",serif' }}>
-              Priyanka &hearts; Anshuman
+              Priyanka &hearts; Ansuman
             </div>
           </div>
         </div>
@@ -876,7 +876,7 @@ export default function App() {
                   </div>
                   <div className="mt-[8px] text-[14.8px] sm:text-[15.7px] text-[#83522a] leading-relaxed px-2"
                     style={{ fontFamily: '"Crimson Pro",serif' }}>
-                    We humbly request you to bless Priyanka &amp; Anshuman as they begin their journey of love and togetherness.
+                    We humbly request you to bless Priyanka &amp; Ansuman as they begin their journey of love and togetherness.
                     Your presence is the most cherished gift we could ever receive.
                   </div>
                   <div className="mt-[11px] text-[15.5px] text-[#b16228] tracking-wide"
@@ -896,7 +896,7 @@ export default function App() {
                     style={{ background: '#fff6df', border: '1.5px solid #e2b66c', boxShadow: '0 4px 14px rgba(157,94,32,.10)', fontFamily: '"Cormorant Garamond",serif' }}>
                     &#9993; View Again
                   </button>
-                  <a href={`https://wa.me/?text=${encodeURIComponent(`You're invited to a Royal Engagement!💍 of \nPriyanka & Anshuman \n on ${eventDetails.month} ${eventDetails.year}\n at ${eventDetails.venue}, Rourkela\nPlease grace us with your presence! https://fascinating-biscotti-c5ea27.netlify.app/ 💐✨`)}`}
+                  <a href={`https://wa.me/?text=${encodeURIComponent(`You're invited to a Royal Engagement!💍 of \nPriyanka & Ansuman \n on ${eventDetails.month} ${eventDetails.year}\n at ${eventDetails.venue}, Rourkela\nPlease grace us with your presence! https://fascinating-biscotti-c5ea27.netlify.app/ 💐✨`)}`}
                     target="_blank" rel="noreferrer"
                     className="px-5 py-[12px] rounded-full text-[13.8px] tracking-wide text-white text-center"
                     style={{
