@@ -717,7 +717,7 @@ export default function App() {
                   {/* <RoyalMotif className="w-[208px] sm:w-[250px] h-auto" /> */}
 
                   <img className='w-[90px]' src={danceImage} alt="" />
-                  <img className="w-[120px] sm:w-[180px] h-auto" src="https://png.pngtree.com/png-clipart/20221219/original/pngtree-luxury-shubh-vivah-or-vivaah-hindi-luxure-red-calligraphy-mandala-illustration-png-image_8775335.png" alt="" />
+                  <img className="w-[100px] sm:w-[180px] h-auto" src="https://png.pngtree.com/png-clipart/20250416/original/pngtree-glossy-golden-om-symbol-with-intricate-design-png-image_20791034.png" alt="" />
                   <img className="w-[90px]" src={dholiImage} alt="Traditional dhol player" />
                 </div>
                 <div className="mt-[16px] flex items-center justify-center gap-3">
@@ -784,7 +784,7 @@ export default function App() {
                   </div>
 
                   <div className="flex flex-wrap justify-center gap-[13px] sm:gap-[18px] mt-[18px]">
-                    <ScratchReveal label="DATE" value={eventDetails.date} sub="Fifteenth"
+                    <ScratchReveal label="DATE" value={eventDetails.date} sub="Twenty-ninth"
                       revealed={revealedMap.date} onReveal={() => handleReveal('date')} accent="#8a1328" />
                     <ScratchReveal label="MONTH" value="Nov" sub="November"
                       revealed={revealedMap.month} onReveal={() => handleReveal('month')} accent="#8a1328" />
