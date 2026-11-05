@@ -713,11 +713,11 @@ export default function App() {
                   </div>
                 </div>
 
-                <div className="flex items-center justify-between my-[11px] text-center">
+                <div className="flex items-center justify-between my-[10px] text-center">
                   {/* <RoyalMotif className="w-[208px] sm:w-[250px] h-auto" /> */}
 
                   <img className='w-[90px]' src={danceImage} alt="" />
-                  <img className="w-[90px] sm:w-[180px] h-auto" src="https://png.pngtree.com/png-clipart/20221219/original/pngtree-luxury-shubh-vivah-or-vivaah-hindi-luxure-red-calligraphy-mandala-illustration-png-image_8775335.png" alt="" />
+                  <img className="w-[120px] sm:w-[180px] h-auto" src="https://png.pngtree.com/png-clipart/20221219/original/pngtree-luxury-shubh-vivah-or-vivaah-hindi-luxure-red-calligraphy-mandala-illustration-png-image_8775335.png" alt="" />
                   <img className="w-[90px]" src={dholiImage} alt="Traditional dhol player" />
                 </div>
                 <div className="mt-[16px] flex items-center justify-center gap-3">
