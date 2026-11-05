@@ -31,7 +31,7 @@ const eventDetails = {
   venue: "Alisha Palace",
   address: "Budha ghata, Oleipada",
   city: "Jajpur Town, Odisha 755007",
-  timeRing: "11:00 PM — Ring Ceremony",
+  timeRing: "11:00 AM — Ring Ceremony",
   timeDinner: "12:30 PM — Prasad Sevan",
   // dress: "Royal Bandhani • Jodhpuri • Leheriya",
 };
