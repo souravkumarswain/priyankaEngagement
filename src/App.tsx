@@ -19,7 +19,7 @@ const couple = {
   brideFamily: "Lt.Tanmaya Jena & Swarnaprava Jena",
   groomFamily: "Shri Ajay Kumar Pati  & Smt. Anima Pati",
   bridePlace: "Jajpur",
-  groomPlace: "",
+  groomPlace: "Jajpur",
 };
 
 const eventDetails = {
